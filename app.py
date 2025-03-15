@@ -5,7 +5,7 @@ import cv2
 from PIL import Image
 import numpy as np
 
-st.title('Picture Shades')
+st.title('Shade Your Picture')
 
 #with open('model.pkl','rb') as f:
  #   model = pickle.load(f)
